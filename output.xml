@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeocodeResponse>
+ <status>OK</status>
+ <result>
+  <type>street_address</type>
+  <formatted_address>123 Main St, Flushing, NY 11354, USA</formatted_address>
+  <address_component>
+   <long_name>123</long_name>
+   <short_name>123</short_name>
+   <type>street_number</type>
+  </address_component>
+  <address_component>
+   <long_name>Main Street</long_name>
+   <short_name>Main St</short_name>
+   <type>route</type>
+  </address_component>
+  <address_component>
+   <long_name>Flushing</long_name>
+   <short_name>Flushing</short_name>
+   <type>neighborhood</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Queens</long_name>
+   <short_name>Queens</short_name>
+   <type>political</type>
+   <type>sublocality</type>
+   <type>sublocality_level_1</type>
+  </address_component>
+  <address_component>
+   <long_name>Queens County</long_name>
+   <short_name>Queens County</short_name>
+   <type>administrative_area_level_2</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>New York</long_name>
+   <short_name>NY</short_name>
+   <type>administrative_area_level_1</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>United States</long_name>
+   <short_name>US</short_name>
+   <type>country</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>11354</long_name>
+   <short_name>11354</short_name>
+   <type>postal_code</type>
+  </address_component>
+  <geometry>
+   <location>
+    <lat>40.7625690</lat>
+    <lng>-73.8314318</lng>
+   </location>
+   <location_type>ROOFTOP</location_type>
+   <viewport>
+    <southwest>
+     <lat>40.7612200</lat>
+     <lng>-73.8327808</lng>
+    </southwest>
+    <northeast>
+     <lat>40.7639180</lat>
+     <lng>-73.8300828</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <partial_match>true</partial_match>
+  <place_id>ChIJWbGLkg9gwokR76ZxzYbdnpM</place_id>
+ </result>
+</GeocodeResponse>

@@ -8,7 +8,7 @@ Simple geolocator that uses Google APIs to locate a marker on a map and is built
 * Toggle between 4 google map types.
 * Zoom slider control.
 
-![Geolocator Window](/readme-image.png)
+![Geolocator Window](./readme-image.png)
 
 ## License
 
